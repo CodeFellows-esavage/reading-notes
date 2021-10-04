@@ -32,6 +32,7 @@ Example: my favorite site is [Reddit](https://www.reddit.com)
 - [link text in brackets](Link url in paranthasis')
 - adding ! in front of [] allows you to use the same format to post a picture from a web url
   - no way to adjust image size
+
 ## Lists
 Adding a hypen followed by a space and some text (- "text"), creates an unordered list item that will display as bulleted when viewed in the browser.
 - unordered list item 1

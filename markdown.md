@@ -18,14 +18,14 @@ In their simplest form, headings can be used to create an organized strutured fl
 ###### Heading 6
 
 ## Text
-Text shows up as written. There are a few modifiers that can be added to make the text *italic*, **bold**, or ~~strikethrough~~. There are a few ways to do this, but I will show one here.
+Text shows up as written. There are a few modifiers that can be added to make the text *italic*, **bold**, or ~~strikethrough~~. There are a few ways to do this -  I will show one here.
  - itallic: *example* place one (1) asterisk * before and after a word or phrase containing the desired content to be modified.
  - bold: **example** place two consecutive asterisks ** before and after a word or phrase containing the desired content to be modified.
  - strikethrough: ~~example~~ place two consecutive tildes ~~ before and after a word or phrase containing the desired content to be modified.
  - the above modifiers can utlized in any combination
 
 Bonus, markdown supports emojis which can be used to add a little bit of extra flair or emphasis. To do this, use two (2) pairs of colens surround a Github supported emoji.
-- example: :github-supported-emoji: 😄
+- example: :github-supported-emoji:, :"smile": (exluding quotes) = 😄
 - supported [emjoi cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 ## Links/pictures
 Example: my favorite site is [Reddit](https://www.reddit.com)
@@ -33,17 +33,20 @@ Example: my favorite site is [Reddit](https://www.reddit.com)
 - adding ! in front of [] allows you to use the same format to post a picture from a web url
   - no way to adjust image size
 ## Lists
-Adding a hypen followed by a space and some text, creates an unordered list item that will display as bulleted when viewed in the browser.
+Adding a hypen followed by a space and some text (- "text"), creates an unordered list item that will display as bulleted when viewed in the browser.
 - unordered list item 1
 - unordered list item 2
 - unordered list item 3
 
+Adding a number in the following format (1.) followed by space and some text (1. "text") creates and ordered list item that will display as a numerical list when viewed in the browser.
 1. ordered list item 1
 2. ordered list item 2
 3. ordered list item 3
 
-## Code Blocks
+Note starting with any number other than 1. will prevent your numbered list from displaying on separate lines when shown in the browser.
 
+## Code Blocks
+Code blocks can be used to show specific formated blocks of code.
 ```Markdown
 ## Heading 2
 ```

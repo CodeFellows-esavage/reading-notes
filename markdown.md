@@ -26,7 +26,7 @@ Text shows up as written. There are a few modifiers that can be added to make th
 
 Bonus, markdown supports emojis which can be used to add a little bit of extra flair or emphasis. To do this, use two (2) pairs of colens surround a Github supported emoji.
 - example: :github-supported-emoji: 😄
-- supported emjoi list
+- supported [emjoi cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 ## Links/pictures
 Example: my favorite site is [Reddit](https://www.reddit.com)
 - [link text in brackets](Link url in paranthasis')

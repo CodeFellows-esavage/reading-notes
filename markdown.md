@@ -16,9 +16,9 @@ Links... My favorite site is [Reddit](https://www.reddit.com)
 ```
 
 ## Lists
--unordered list item 1
--unordered list item 2
--unordered list item 3
+- unordered list item 1
+- unordered list item 2
+- unordered list item 3
 
 1. ordered list item 1
 2. ordered list item 2

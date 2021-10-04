@@ -2,4 +2,4 @@
 Reading notes for Code Fellows software development bootcamp.
 
 ## Table of Contents
-- [Reading Class 1](markdown.md)
+- [Reading Class 01](markdown.md)

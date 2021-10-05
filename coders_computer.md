@@ -20,13 +20,18 @@ It is advised to avoid the native text editors to your Windows, Mac, or Linux ma
 ## Terminal
 Terminal (also know as the Command Line) runs BASH (bourne again shell) and is a text based interface system opposed to the typical graphical user interface most are more commonly associated with.
 
+[Mac Terminal Cheat Sheet](https://github.com/0nn0/terminal-mac-cheatsheet#english-version)
+
 - Commands are typically the first thing you type
 - arguements typically come seconds and there must be a space between the command and the argument
 - The first command line argument is typically refered to as an option, which are typically listed before other arguments and begin with a dash (-)
 
 ### Commands
 - pwd (print working directory): shows current working directory, use this to keep track of where you are as you move around in the terminal.
-- ls (list): displays what is in the current location 
+- ls (list): displays what is in the current location
+- cd (change directories): move to another directory
+- file [path]: obtain information about the file type of a file or directory
+- ls -a (list all): list contents of a directory including hidden files
 
 ### Paths
 - getting to a particular file or directory on the system
@@ -38,3 +43,8 @@ Terminal (also know as the Command Line) runs BASH (bourne again shell) and is a
     - dot (.): references current directory
     - dotdot (..): reference to parent directory 
 
+- everything is a file
+- Linux doesn't care about the file extensions (.jpg, .txt, etc.) but instead looks within the file to determine the file type
+- Linux is case sensitive, so it is possible to have more than one file with the same name but different casing on the letters.
+- Linux allows for spaces in file names, but requires pathing to these files using quotations or escape characters.
+    - backslash (\) is an escape character which cancels out the meaning of the next character

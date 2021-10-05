@@ -20,4 +20,5 @@ My top three (3) takeaways I think will be helpful to utilize through-out Code F
 *image from https://www.atlassian.com/blog/inside-atlassian/growth-mindset*
 
 ## Table of Contents
-- [Reading Class 01](markdown.md)
+- [Reading Class 01 - Markdown](markdown.md)
+- [Reading Class 02 - The Coder's Computer](coders_computer.md)

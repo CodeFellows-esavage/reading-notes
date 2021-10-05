@@ -16,7 +16,7 @@ Three States of a File:
 2. Modified - file is changed but not commited to the database.
 3. Staged - updated file is flagged to be commited
  
- ### Git Commands
+### Git Commands
 - git config --list: shows general configuration settings (user, email, etc)
 - git help *command* (see list of commands)
    - -a, -g: list available subcommands and some concept guides.

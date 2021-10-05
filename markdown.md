@@ -6,6 +6,7 @@ Resources utlized in the creation of this page:
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Writing on Github](https://docs.github.com/en/github/writing-on-github)
 - [Basic Markdown Syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
+- [Markdown Syntax](https://www.markdownguide.org/basic-syntax/#lists-1)
 
 ## Headings
 In their simplest form, headings can be used to create an organized strutured flow for how a user consumes the information displayed on page. There are six (6) different heading sizes which are noted by using the # symbol. Using one (1) # symbol provides the largest available heading, where as using six (6) # symbols (######) will provide the smallest available heading.

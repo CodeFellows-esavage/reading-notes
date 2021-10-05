@@ -1,9 +1,9 @@
 # The Coder's Computer
 ## Summary
-Text editors are personal choices, and ultimately it doesn't matter which editor you choose, as they are all realtively similar. Choose an editor that allows you to successfully complete the project at hand with one tool. And at the end of the day the best text editor is the one you enjoy using and are proficeint with.
+Text editors are personal choices, and ultimately it doesn't matter which editor you choose, as they are all relatively similar. Choose an editor that allows you to successfully complete the project at hand with one tool. And at the end of the day the best text editor is the one you enjoy using and are proficient with.
 
 ## Text Editor
-A text editor is a tool in the form of software that allows a software developer to effienctly code websites, apps, or pretty much anythind coding related. They provide a variety of features that make it easier to code from code completion to plug ins.
+A text editor is a tool in the form of software that allows a software developer to efficiently code websites, apps, or pretty much anything coding related. They provide a variety of features that make it easier to code from code completion to plug-ins.
 
 Top Features as noted by "The Older Coder"
 1. Code Completion
@@ -15,16 +15,16 @@ Top Features as noted by "The Older Coder"
 7. Extension Availability
     - The ability for your text editor to grow (as needed) through plug-ins.
 
-It is advised to avoid the native text editors to your Windows, Mac, or Linux machine, as they are considered "bare bones" and do not provide any of the features listed above. On the otherhand there are a variety of third party text editors that can provide all of those features and are even free (VS Code, Notepad++, Atom, etc). Take into consideration to which editors are conpatible with the OS your are using (for example Notepad++ is Windows only). I personally prefer the text editors that are available across all operating systems, as I will always have a familiar environment reglardless of the hardware I am writing code on.
+It is advised to avoid the native text editors to your Windows, Mac, or Linux machine, as they are considered "bare bones" and do not provide any of the features listed above. On the other hand there are a variety of third party text editors that can provide all of those features and are even free (VS Code, Notepad++, Atom, etc). Take into consideration which editors are compatible with the OS you are using (for example Notepad++ is Windows only). I personally prefer the text editors that are available across all operating systems, as I will always have a familiar environment regardless of the hardware I am writing code on.
 
 ## Terminal
-Terminal (also know as the Command Line) runs BASH (bourne again shell) and is a text based interface system opposed to the typical graphical user interface most are more commonly associated with.
+Terminal (also known as the Command Line) runs BASH (bourne again shell) and is a text based interface system opposed to the typical graphical user interface most are more commonly associated with.
 
 [Mac Terminal Cheat Sheet](https://github.com/0nn0/terminal-mac-cheatsheet#english-version)
 
 - Commands are typically the first thing you type
-- arguements typically come seconds and there must be a space between the command and the argument
-- The first command line argument is typically refered to as an option, which are typically listed before other arguments and begin with a dash (-)
+- arguments typically come seconds and there must be a space between the command and the argument
+- The first command line argument is typically referred to as an option, which are typically listed before other arguments and begin with a dash (-)
 
 ### Commands
 - pwd (print working directory): shows current working directory, use this to keep track of where you are as you move around in the terminal.
@@ -39,7 +39,7 @@ Terminal (also know as the Command Line) runs BASH (bourne again shell) and is a
     - absolute, begin from the **root** directory and always begin with a "/"
     - relative, specifies a location from the current location in the system
 - Multiple approaches to specifying a path
-    - tilde (~): short cut to home directory
+    - tilde (~): shortcut to home directory
     - dot (.): references current directory
     - dotdot (..): reference to parent directory 
 

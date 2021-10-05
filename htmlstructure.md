@@ -1,0 +1,42 @@
+# Structure Web Pages with HTML
+
+## Wireframing
+A wireframe is a basic layout or skeleton of a website or app. Building a solid wireframe at the begining of a new project demsonstrates a clear understanding of how a user will interface with a website or app before effort is placed into coding or asthetics.
+
+Wireframes can be created with hand drawings or by using some software tools, but ultimately the approach in creating these is up to the user. Depending on the end application for task at hand, multiple wireframes and tools may be used to walk through and solidify the final design. Backend projects may have just a wireframe and the coding, where as projects with a lot of customer interface may go through multiple iderations of wireframes both sketched and designed in software, before finally coding.
+
+Wireframe Tools:
+- Pen and Paper
+- Slide Shows (Google Slides, PowerPoint, etc)
+- Flowmap Tools (Lucidcharts, Visio, etc)
+- Specific Wireframing Tools (UXPin, InVision, Wireframe.cc, etc)
+
+Steps to Making a Wireframe:
+1. Research - understand audience and competition
+2. Reference - condense information from step 1 into a cheatsheet
+3. Flow Map - create a flow map of the exepected interfaces with the website
+4. Draft and Sketch - outline wireframe focusign on how you will support user goals without getting caught in the details
+5. Details and Testing - add details from top to bottom left to right focusing on usability conventions, simple instructional wording, trust building elements, and tooltips, then start user testing
+6. Prototype - use wireframing software to create production level prototypes
+
+Wireframes overall should be clear, confident, and simple.
+
+## HTML Basics
+[HTML Reference Document](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+HTML stands for HyperText Markup Language and is the code that provides the basic structure for a website. HTML specifically uses tag notation to "markup" the text to perform a variety of different functions.
+
+### Elements
+Tags are enclosed in angle brackets <> and consist of an opening and closing tag. The closing tag is diferentiated from the opening tag by having a forward slash placed after the first angle bracket </>. These tags surround the content, and altogether form the HTML element.
+
+![HTML element](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
+
+Attributes are portions of an element that contain extra information, but you don't want to appear in the acutal content of the element.
+- space between the element
+- attribute name should be followed by an equal sign
+- attribute value should be wrapped by quotation marks ""
+
+Elements can be nested to mark-up the content in more than one way.
+
+
+
+

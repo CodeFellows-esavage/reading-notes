@@ -23,3 +23,5 @@ My top three (3) takeaways I think will be helpful to utilize through-out Code F
 - [Reading Class 01 - Markdown](markdown.md)
 - [Reading Class 02 - The Coder's Computer](coders_computer.md)
 - [Reading Class 03 - Revisions and the Cloud](cloudrevisions.md)
+- [Reading Class 04 - Structure web pages with HTML](htmlstructure.md)
+- 

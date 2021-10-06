@@ -1,8 +1,7 @@
 # Design Web Pages with CSS
 Documents Referenced:
 - [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
-
-# CSS
+- [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ## Overview
 - Cascading Style Sheets (CSS) is a language that focuses on how a website is styled and presented to users.
@@ -30,7 +29,6 @@ h1 {
     font-size: 5em;
 }
 ```
-[CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 New CSS features are developed by a team of professionals, but are ultimately only useful if adapted accross one or more browsers.
 

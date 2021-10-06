@@ -14,7 +14,7 @@ Variables are containers for storing values and there are three (3) ways to decl
 2. `let`
 3. `const`
 
-```Reference Script
+``` Reference Script
 <p id="demo"></p>
 <script>
     var x = 5;

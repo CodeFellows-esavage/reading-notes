@@ -16,7 +16,6 @@ Variables are containers for storing values and there are three (3) ways to decl
 
 ```Reference Script
 <p id="demo"></p>
-
 <script>
     var x = 5;
     var y = 6;
@@ -48,16 +47,19 @@ The equal sign `=` is an assignment operator in JavaScript, and not considered e
 ### Declaring Variables
 Declaring a variable, creates a variable, and can be done with the `var` keyword. When intially created a variable has no assigned value. To assign a value use the assignment operator `=` either in the same line of text as the variable creation, or afterwards on a separate line.
 
-```var declaration
+```
 var Name;
 Name = "Erik";
+```
 
 OR
 
+```
 var Name = "Erik";
+```
 
 Both set name = to "Erik".
-```
+
 
 Additional Points:
 - You can declare multiple variables in one statement.

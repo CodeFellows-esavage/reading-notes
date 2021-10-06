@@ -50,11 +50,11 @@ To properly nest the elements the first tag opened should be the last tag closed
 Some elements such as `<img>` are considered empty elements because there is no content or a subsequent closing tag. These elements instead use attributes to further define it.
 
 ### HTML Document Structure
-- <!DOCTYPE html>, the html document must start with this.
-- <html></html>, aka root element, this wraps all of the content on a page
-- <head></head>, container content to include but shouldn't be visible to web user
-- <title></title>, sets title of page and on browser tab
-- <body></body>, contains content visble to the web users
+- `<!DOCTYPE html>`, the html document must start with this.
+- `<html></html>`, aka root element, this wraps all of the content on a page
+- `<head></head>`, container content to include but shouldn't be visible to web user
+- `<title></title>`, sets title of page and on browser tab
+- `<body></body>`, contains content visble to the web users
 
 ### Images
 Images should contain the two (2) following attributes.
@@ -62,15 +62,15 @@ Images should contain the two (2) following attributes.
 2. Alternate descriptor `alt="alternate description of image"` which is what vision impaired will hear or will show up should the image not load.
 
 ### Marking up Text
-- Headings <h1></h1> through <h6></h6>, h1 being the largest, and h6 being the smallest
-- Paragraphs <p></p>, contain text
+- Headings `<h1></h1>` through `<h6></h6>`, h1 being the largest, and h6 being the smallest
+- Paragraphs `<p></p>`, contain text
 - Lists
-    - Unordered List <ul></ul>, denotes the list will be bulleted
-    - Ordered List <ol></ol>, denotes the list will be numbered
-    - List Item <li></li>, the actual content being listed
-- Links <a></a>
+    - Unordered List `<ul></ul>`, denotes the list will be bulleted
+    - Ordered List `<ol></ol>`, denotes the list will be numbered
+    - List Item `<li></li>`, the actual content being listed
+- Links `<a></a>`
     - require an href or **h**ypertext **ref**erence attribute to link to the content `href="website or area of page"`
-    - content between the anchors (<a></a>) is what shows up as the clickable link to the web user
+    - content between the anchors (`<a></a>`) is what shows up as the clickable link to the web user
 
 ## Semantics
 The meaning of a piece of code, in other words what is the purpose or function of that code. Basically ensure you are using the right elements for the job so that function is understood in the code that reflect what is happening with the end web user.

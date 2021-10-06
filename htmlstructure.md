@@ -43,7 +43,7 @@ Attributes are portions of an element that contain extra information, but you do
 
 Elements can be nested to mark-up the content in more than one way.
 ```nesting
-<p>The <strong>nested</strong> is emphasised</p>
+<p>The <strong>nested</strong> content is emphasised</p>
 ```
 To properly nest the elements the first tag opened should be the last tag closed, the second tag opened should be the second to last tag closed, and so on.
 

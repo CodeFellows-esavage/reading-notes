@@ -18,12 +18,12 @@ Top Features as noted by "The Older Coder"
 It is advised to avoid the native text editors to your Windows, Mac, or Linux machine, as they are considered "bare bones" and do not provide any of the features listed above. On the other hand there are a variety of third party text editors that can provide all of those features and are even free (VS Code, Notepad++, Atom, etc). Take into consideration which editors are compatible with the OS you are using (for example Notepad++ is Windows only). I personally prefer the text editors that are available across all operating systems, as I will always have a familiar environment regardless of the hardware I am writing code on.
 
 ## Terminal
-Terminal (also known as the Command Line) runs BASH (bourne again shell) and is a text based interface system opposed to the typical graphical user interface most are more commonly associated with.
+Terminal (also known as the Command Line) runs BASH (bourne again shell) and is a text based interface system opposed to the typical graphical user interface most are more commonly familiar with.
 
 [Mac Terminal Cheat Sheet](https://github.com/0nn0/terminal-mac-cheatsheet#english-version)
 
 - Commands are typically the first thing you type
-- arguments typically come seconds and there must be a space between the command and the argument
+- Arguments typically come second and there must be a space between the command and the argument
 - The first command line argument is typically referred to as an option, which are typically listed before other arguments and begin with a dash (-)
 
 ### Commands
@@ -43,8 +43,10 @@ Terminal (also known as the Command Line) runs BASH (bourne again shell) and is 
     - dot (.): references current directory
     - dotdot (..): reference to parent directory 
 
-- everything is a file
+### Files
+- Everything is a file to Linux
 - Linux doesn't care about the file extensions (.jpg, .txt, etc.) but instead looks within the file to determine the file type
 - Linux is case sensitive, so it is possible to have more than one file with the same name but different casing on the letters.
+    - when naming files it is strongly recommended to use lowercase only to prevent mix-ups
 - Linux allows for spaces in file names, but requires pathing to these files using quotations or escape characters.
     - backslash (\) is an escape character which cancels out the meaning of the next character

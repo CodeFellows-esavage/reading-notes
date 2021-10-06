@@ -1,4 +1,6 @@
 # Revisions and the Cloud
+Documents Referenced: [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
 ## Version Control
 By utlizing a version control system (VCS) one is able to access multiple states of a file or project. This is used to easily track/compare modifications or revert any changes that go south.
 
@@ -23,16 +25,32 @@ Three States of a File:
    - commands: reference list of subcommands (line above) to get additional details regarding a specific command
    - git: for an overview of the system
 - git clone "github SSH link": clones the code from github **(ONCE CLONED DO NOT MODIFY CODE DIRECTLY ON GITHUB)**
-- git commit -m "message": commits code with message
+- git commit -m "brief message with why change was made": commits code with message
 - git status: determine state of file
-- git add:
+- git add "filename.ext" or .: "filename" will prep one file, "." will prep all files in the repository
 - git push origin master: pushes code to head
 - git remote: view the short names of all specified remote handles
+   - git remote -v: shows URLS next to corresponding short names
 
 ### Repositories
-You can either import a repository or clone a repository.
+You can either import a repository or clone a repository from GitHub.
 
-Structure:
+See git clone command.
+
+Repository Structure:
 1. Working Directory - files stored here
 2. Index - used for staging
 3. Head - most recent commit (you are here spot on a map)
+
+### Saving Changes
+- Files are either Tracked or Untracked
+  - Tracked files were part of the most recent snapshot and can be modified, unmodified, or staged.
+  - Untracked files were not part of the most recent snapshot. When you create a new file or page, that will be untracked until commited to the most recent snapshot.
+
+ACP Steps:
+1. git status
+2. (A) git **a**dd filename.ext or .
+3. git status
+4. (C) git **c**ommit -m "brief message of why change was made"
+5. git status
+6. (P) git **p**ush origin main

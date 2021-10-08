@@ -42,4 +42,7 @@ Loop Types:
   - in a for statement it jumps to the `incrementExpression`
 - for...in statement: iterates a specified variable over all the enumerable properties of an object
 - for...of statement: creates a loop Iterating over iterable objects (including Array, Map, Set, arguments object and so on)
-  
+
+
+- While loop: use when we don't know how many times we need to run it
+- For loop: runs a certain number of times, so when you know how many times or about how many times you need the loop to run.

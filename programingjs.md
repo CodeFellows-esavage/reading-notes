@@ -48,6 +48,8 @@ double(5);
 returns 10
 ```
 
+The **only** way to get data store in a variable declared in a function is to `return` that variable at the end of the function.
+
 Variables defined in the function are **ONLY** available in the function.
 
 

@@ -26,6 +26,7 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 - [Reading Class 06 - Dynamic Web Pages with JavaScript](dynamicjs.md)
 - [Reading Class 07 - Programing with JavaScript](programingjs.md)
 - [Reading Class 08 - Operators and Loops](opsandloops.md)
+
 ### Code 201 Reading Notes:
 - [Reading Class 01 - ]
 - [Reading Class 02 - ]
@@ -42,7 +43,9 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 - [Reading Class 13 - ]
 - [Reading Class 14 - ]
 - [Reading Class 15 - ]
+
 ### Code 301 Reading Notes:
 - Coming Soon!
+
 ### Code 401 Reading Notes:
 - Coming Soon!

@@ -17,32 +17,32 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 
 ## Table of Contents
 ### Code 102 Reading Notes:
-- [Growth Mindset](growthmind.md)
-- [Reading Class 01 - Markdown](markdown.md)
-- [Reading Class 02 - The Coder's Computer](coders_computer.md)
-- [Reading Class 03 - Revisions and the Cloud](cloudrevisions.md)
-- [Reading Class 04 - Structure Web Pages with HTML](htmlstructure.md)
-- [Reading Class 05 - Design Web Pages with CSS](cssdesign.md)
-- [Reading Class 06 - Dynamic Web Pages with JavaScript](dynamicjs.md)
-- [Reading Class 07 - Programing with JavaScript](programingjs.md)
-- [Reading Class 08 - Operators and Loops](opsandloops.md)
+- [Growth Mindset](class102-growthmind.md)
+- [Reading Class 01 - Markdown](class102-01.md)
+- [Reading Class 02 - The Coder's Computer](class102-02.md)
+- [Reading Class 03 - Revisions and the Cloud](class102-03.md)
+- [Reading Class 04 - Structure Web Pages with HTML](class102-04.md)
+- [Reading Class 05 - Design Web Pages with CSS](class102-05.md)
+- [Reading Class 06 - Dynamic Web Pages with JavaScript](class102-06.md)
+- [Reading Class 07 - Programing with JavaScript](class102-07.md)
+- [Reading Class 08 - Operators and Loops](class102-08.md)
 
 ### Code 201 Reading Notes:
-- [Reading Class 01 - ]
-- [Reading Class 02 - ]
-- [Reading Class 03 - ]
-- [Reading Class 04 - ]
-- [Reading Class 05 - ]
-- [Reading Class 06 - ]
-- [Reading Class 07 - ]
-- [Reading Class 08 - ]
-- [Reading Class 09 - ]
-- [Reading Class 10 - ]
-- [Reading Class 11 - ]
-- [Reading Class 12 - ]
-- [Reading Class 13 - ]
-- [Reading Class 14 - ]
-- [Reading Class 15 - ]
+- [Reading Class 01 - ](class201-01.md)
+- [Reading Class 02 - ](class201-02.md)
+- [Reading Class 03 - ](class201-03.md)
+- [Reading Class 04 - ](class201-04.md)
+- [Reading Class 05 - ](class201-05.md)
+- [Reading Class 06 - ](class201-06.md)
+- [Reading Class 07 - ](class201-07.md)
+- [Reading Class 08 - ](class201-08.md)
+- [Reading Class 09 - ](class201-09.md)
+- [Reading Class 10 - ](class201-10.md)
+- [Reading Class 11 - ](class201-11.md)
+- [Reading Class 12 - ](class201-12.md)
+- [Reading Class 13 - ](class201-13.md)
+- [Reading Class 14 - ](class201-14.md)
+- [Reading Class 15 - ](class201-15.md)
 
 ### Code 301 Reading Notes:
 - Coming Soon!

@@ -28,8 +28,8 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 - [Reading Class 08 - Operators and Loops](class102-08.md)
 
 ### Code 201 Reading Notes:
-- [Reading Class 01 - ](class201-01.md)
-- [Reading Class 02 - ](class201-02.md)
+- [Reading Class 01 - Intro to HTML, CSS, & JavaScript ](class201-01.md)
+- [Reading Class 02 - More Basics CSS & JavaScript](class201-02.md)
 - [Reading Class 03 - ](class201-03.md)
 - [Reading Class 04 - ](class201-04.md)
 - [Reading Class 05 - ](class201-05.md)

@@ -33,7 +33,7 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 - [Reading Class 03 - Boxes, Decisions, and Loops](class201-03.md)
 - [Reading Class 04 - Links, Layouts, Function Intro, & Pair Programming ](class201-04.md)
 - [Reading Class 05 - Imgs, Text, and Color, ](class201-05.md)
-- [Reading Class 06 - ](class201-06.md)
+- [Reading Class 06 - Data Types, Objects, and the DOM](class201-06.md)
 - [Reading Class 07 - ](class201-07.md)
 - [Reading Class 08 - ](class201-08.md)
 - [Reading Class 09 - ](class201-09.md)

@@ -36,7 +36,7 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 - [Reading Class 06 - Data Types, Objects, and the DOM](class201-06.md)
 - [Reading Class 07 - Domain Modeling, Tables, and Objects](class201-07.md)
 - [Reading Class 08 - CSS Layouts](class201-08.md)
-- [Reading Class 09 - ](class201-09.md)
+- [Reading Class 09 - Forms, Lists, Tables, and Events](class201-09.md)
 - [Reading Class 10 - ](class201-10.md)
 - [Reading Class 11 - ](class201-11.md)
 - [Reading Class 12 - ](class201-12.md)

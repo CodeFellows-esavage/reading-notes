@@ -42,10 +42,9 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 - [Reading Class 12 - Chart and Canvas APIs](class201-12.md)
 - [Reading Class 13 - Local Storage](class201-13.md)
 - [Reading Class 14 - Transitions, Animations, and Psychological Safety ](class201-14.md)
-- [Reading Class 15 - ](class201-15.md)
 
 ### Code 301 Reading Notes:
-- Coming Soon!
+- [Reading Class 01 - Intro to HTML, CSS, & JavaScript ](class301-01.md)
 
 ### Code 401 Reading Notes:
 - Coming Soon!

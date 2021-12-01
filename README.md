@@ -46,6 +46,7 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 ### Code 301 Reading Notes:
 - [Reading Class 01 - Component Based Architechture and Props in React ](class301-01.md)
 - [Reading Class 02 - Lifecycle Events & State vs Props](class301-02.md)
+- [Reading Class 03 - React List & Keys, Spread Operator, and Passing Functions Between Components](class301-03.md)
 
 ### Code 401 Reading Notes:
 - Coming Soon!

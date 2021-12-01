@@ -47,19 +47,19 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 - [Class Reading 01 - Component Based Architechture and Props in React ](class301/class301-01.md)
 - [Class Reading 02 - Lifecycle Events & State vs Props](class301/class301-02.md)
 - [Class Reading 03 - React List & Keys, Spread Operator, and Passing Functions Between Components](class301/class301-03.md)
-- [Class Reading 04 - ](class301/class301-04.md)
-- [Class Reading 05 - ](class301/class301-05.md)
-- [Class Reading 06 - ](class301/class301-06.md)
-- [Class Reading 07 - ](class301/class301-07.md)
-- [Class Reading 08 - ](class301/class301-08.md)
-- [Class Reading 09 - ](class301/class301-09.md)
-- [Class Reading 10 - ](class301/class301-10.md)
+- [Class Reading 04 - React Forms, Ternary Operator](class301/class301-04.md)
+- [Class Reading 05 - Thinking in React, Higher-Order Functions](class301/class301-05.md)
+- [Class Reading 06 - Node.js & Pair-Programming](class301/class301-06.md)
+- [Class Reading 07 - REST](class301/class301-07.md)
+- [Class Reading 08 - API Best Practices](class301/class301-08.md)
+- [Class Reading 09 - Functional Programming, Modules and Require()](class301/class301-09.md)
+- [Class Reading 10 - JS Call Stack and Error Messagages](class301/class301-10.md)
 - [Class Reading 11 - ](class301/class301-11.md)
 - [Class Reading 12 - ](class301/class301-12.md)
 - [Class Reading 13 - ](class301/class301-13.md)
 - [Class Reading 14 - ](class301/class301-14.md)
 - [Class Reading 15 - ](class301/class301-15.md)
-- 
+
 
 ### Code 401 Reading Notes:
 - Coming Soon!

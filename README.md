@@ -55,7 +55,7 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 - [Class Reading 09 - Functional Programming, Modules and Require()](class301/class301-09.md)
 - [Class Reading 10 - JS Call Stack and Error Messagages](class301/class301-10.md)
 - [Class Reading 11 - SQL vs NoSQL ](class301/class301-11.md)
-- [Class Reading 12 - ](class301/class301-12.md)
+- [Class Reading 12 - REST Method Status Codes and Building a REST API](class301/class301-12.md)
 - [Class Reading 13 - ](class301/class301-13.md)
 - [Class Reading 14 - ](class301/class301-14.md)
 - [Class Reading 15 - ](class301/class301-15.md)

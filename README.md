@@ -59,7 +59,5 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 - [Class Reading 13 - Diversity & Inclusion in the Tech Industry](class301/class301-13.md)
 - [Class Reading 14 - Authentication](class301/class301-14.md)
 
-
-
 ### Code 401 Reading Notes:
-- Coming Soon!
+- [Prep Reading](class401/class401-prep.md)

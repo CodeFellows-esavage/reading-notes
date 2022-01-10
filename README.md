@@ -61,7 +61,7 @@ I’m Erik Savage *(he/him)*, and as of September 24th 2021, am now a **former**
 
 ### Code 401 Reading Notes:
 - [Prep Reading](class401/class401-prep.md)
-- [Class Reading 01 - ](class401/class401-01.md)
+- [Class Reading 01 - Node Ecosystem, TDD, CI/CD](class401/class401-01.md)
 - [Class Reading 02 - Express](class401/class401-02.md)
 - [Class Reading 03 - Express REST API](class401/class401-03.md)
 - [Class Reading 04 - Data Modeling](class401/class401-04.md)
